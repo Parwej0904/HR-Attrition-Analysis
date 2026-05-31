@@ -1,5 +1,7 @@
 # HR Employee Attrition Analysis & Dashboard
 
+Interactive HR Analytics Dashboard for Employee Attrition Analysis
+
 ## Description
 
 This project analyzes employee attrition patterns using HR data and provides actionable business insights through Exploratory Data Analysis (EDA), SQL analysis, and an interactive Power BI dashboard.
