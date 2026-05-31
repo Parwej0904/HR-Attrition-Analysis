@@ -75,3 +75,21 @@ The objective was to identify factors contributing to employee turnover and supp
 HR_ATTRITION_FINAL_DASHBOARD.pbix
 README.md
 ```
+---
+
+## Dashboard Screenshots
+
+### Overview Dashboard
+![Overview](images/Overview.png)
+
+### Attrition Factors Analysis
+![Attrition Factors](images/Attrition_Factors.png)
+
+### Employee Demographics
+![Demographics](images/Demographics.png)
+
+### Salary & Job Satisfaction Analysis
+![Salary Satisfaction](images/Salary_Satisfaction.png)
+
+### Key Insights & Recommendations
+![Insights](images/Insights.png)
