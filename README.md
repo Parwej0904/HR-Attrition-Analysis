@@ -1,6 +1,6 @@
 # HR Employee Attrition Analysis & Dashboard
 
-Interactive HR Analytics Dashboard for Employee Attrition Analysis
+Power BI | SQL | Python | DAX | Power Query
 
 ## Description
 
